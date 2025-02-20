@@ -11,4 +11,4 @@
 
 Este repositório contém os exercícios realizados durante o **Bootcamp Bradesco Java Cloud Native**, oferecido pela **DIO (Digital Innovation One)**.
 
-- [Conta Bancária](https://github.com/x86mota/DIO-JavaCloudNative/tree/main/BankAccount)
+- [Simulando Uma Conta Bancária Através Do Terminal/Console](https://github.com/x86mota/DIO-JavaCloudNative/tree/main/BankAccount)
